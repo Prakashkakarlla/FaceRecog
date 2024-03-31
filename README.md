@@ -16,14 +16,14 @@ Displaying bounding boxes and labels for recognized faces
 
 In the project directory, you can run:
 
-#### Clone the project repository:
+### Clone the project repository:
 ### `git clone https://github.com/Prakashkakarlla/FaceRecog`
 
-Install dependencies:
+### Install dependencies:
 ### `cd FaceRecog`
 ### `npm install`
 
-Start the development server:
+### Start the development server:
 ### `npm start`
 
 Runs the app in the development mode.\
