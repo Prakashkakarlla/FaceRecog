@@ -37,19 +37,19 @@ You may also see any lint errors in the console.
 Allow the app to access your webcam.\
 Wait for the app to load the models and start the webcam stream.\
 Known faces (e.g., "Virat", "Messi", "Prakash") will be recognized and labeled in the video stream.\
-The app will continuously detect and recognize faces in the video stream.\
+The app will continuously detect and recognize faces in the video stream.
 
 ## Folder Structure
 public: Contains the HTML template and assets.\
 src: Contains the React components and app logic.\
 components: Contains the main App component and other UI components.\
 models: Contains the pre-trained face recognition models.\
-style.css: Contains the CSS styles for the app.\
+style.css: Contains the CSS styles for the app.
 
 ## Dependencies
 
 React.js: JavaScript library for building user interfaces\
-face-api.js: JavaScript API for face detection and recognition\
+face-api.js: JavaScript API for face detection and recognition
 
 ## Credits
 
